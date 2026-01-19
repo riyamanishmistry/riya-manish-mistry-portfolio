@@ -1,0 +1,210 @@
+{
+  "settings": {
+    "name": "Riya Manish Mistry",
+    "title": "M.A. International Business and Finance | Private Equity",
+    "location": "Germany",
+    "summary": "Dynamic finance professional with 2+ years of hands‑on experience in accounting, controlling, auditing, and administrative operations across multinational and domestic environments. Proven track record in streamlining payroll processes across 12 sites, enhancing GST/TDS compliance accuracy, and ensuring full audit readiness through meticulous documentation and analysis. Skilled in building strong client and vendor relationships, driving measurable improvements in operational efficiency. Proficient in Financial Analysis, Project Management, MS Excel, Tally ERP 9, and Tally Prime. Recognized for analytical thinking, initiative, and adaptability, with a strong passion for financial markets",
+    "profileImage": "https://image2url.com/r2/default/images/1768838008160-3b4f44a3-3cc8-460e-abb1-4905828e29d9.png"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:riya.manish.mistry@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "file:///C:/Users/abhir/OneDrive/Desktop/DESKTOP/Riya%20Aunty%20Job/Riya_Mistry_CV.pdf"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Financial Statement Analysis",
+          "Account Reconciliation",
+          "Budgeting",
+          "Payroll Management",
+          "GST & TDS Compliance",
+          "Tally ERP 9",
+          "Tally Prime",
+          "MS Excel (Including Pivot Tables)",
+          "Microsoft Suite",
+          "Basic SAP",
+          "Internal Audits",
+          "Statutory Documentation",
+          "Financial Reporting",
+          "Invoice Management",
+          "Excel Dashboards",
+          "Data Entry Accuracy",
+          "Expense Tracking",
+          "Cash pool Management",
+          "Budget Preparation",
+          "Management & Board reporting",
+          "Vendor Coordination",
+          "Client Communication",
+          "Project Coordination",
+          "Document Management"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Ramjiyani Associates",
+          "position": "Accountant and Administrator",
+          "period": "06/2022 - 09/2024",
+          "description": "Managed financial operations across 3 firms and 15+ sites, handling accounts receivable, accounts payable, invoice entry, account assignment, distributions, inventory reconciliations, general reporting, and accounting issues, boosting efficiency by 42% through Excel automation. Streamlined AP/AR workflows for 200+ monthly transactions, cutting invoice processing time by 40%. Enhanced audit readiness by 30% through financial reviews, compliance checks, and documentation controls. Improved operational accuracy by 38% through payroll and expense tracking using standardized accounting procedures, supporting private equity related accounting and reporting processes, process mining, accounting systems, and monthly and annual financial statements. Collaborated across teams in advisory board, investment committee, and shareholder meetings on 12+ projects, managing payroll, fund-related events, and underwriting P&L."
+        },
+        {
+          "company": "CA Varma and Associates",
+          "position": "Accounting Intern",
+          "period": "04/2022 - 06/2022",
+          "description": "Processed GSTR1, GSTR3B, and TDS returns for 10+ clients, increasing compliance accuracy by 34%. Reconciled bank statements and maintained ledgers, reducing financial discrepancies by 27%. Refined AP/AR tracking and digitized records, improving reporting efficiency and cutting retrieval time by 40%. Supported audit teams and resolved client queries with 95% first-contact resolution, reducing audit prep time by 22%, while aligning financial processes with impact investment goals and an active investor role in oversight."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Investment Analysis of J.P. Morgan Chase & Co. - Major (Financial Research Project)",
+          "description": "Assessed 15+ financial ratios (ROE, ROCE, P/E, Current Ratio) using balance sheet data under US GAAP to evaluate liquidity, profitability, identifying a 2.02 current ratio and 22% ROCE indicating financial strength. Conducted top-down and bottom-up analysis integrating market information, industry analysis, ESG evaluation, Solvency II, and reporting processes, while supporting receipt management and archiving to assess portfolio report, equity financing, and sustainable investment potential. Analysed earnings trends to forecast 12% CAGR over 5 years, supporting long-term investment decisions. Applied hypothesis testing and ratio analysis to validate investment assumptions using tools like regression, working capital modelling, and debt-equity financing.",
+          "tags": [
+            "Financial Analysis",
+            "Market Research",
+            "ESG Evaluation",
+            "Forecasting"
+          ],
+          "previewUrl": "#",
+          "repoUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Technische Hochschule Augsburg",
+          "degree": "M.A. (International Business and Finance)",
+          "period": "10/2024 - Ongoing"
+        },
+        {
+          "institution": "Narsee Monjee Institute of Management Studies",
+          "degree": "M.B.A (Financial Management)",
+          "period": "08/2022 - 08/2024"
+        },
+        {
+          "institution": "St. Rock's College of Commerce and Science",
+          "degree": "B. A (Financial Accounting and Auditing)",
+          "period": "06/2019 - 04/2022"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Best Performer Award",
+          "description": "Secured Best Performer Award for maintaining 100% accuracy in reconciliations and vendor management across 15+ project sites at Ramjiyani Associates."
+        },
+        {
+          "title": "Client Recognition",
+          "description": "Earned Client Recognition for resolving 50+ financial queries with a 98% satisfaction rate, demonstrating proactive and clear communication skills and service orientation."
+        },
+        {
+          "title": "Statutory Audit Contribution",
+          "description": "Played a key role in supporting statutory audits across 3 companies, contributing to successful closures with zero non-compliance findings, while driving strategic initiatives and maintaining audit issue-resolution pipeline management."
+        },
+        {
+          "title": "Tally ERP 9 and Tally Prime Professional Training",
+          "description": "Completed professional training in Tally ERP 9 and Tally Prime, enhancing accounting automation and reporting speed by 40% showcasing track record."
+        },
+        {
+          "title": "TD Securities Investment Banking Virtual Program",
+          "description": "Completed TD Securities Investment Banking Virtual Program, gaining M&A and valuation skills."
+        },
+        {
+          "title": "Goodbody Stock Picking Simulation",
+          "description": "Executed stock picking simulation at Goodbody, applying equity research and fundamental analysis."
+        },
+        {
+          "title": "Smartious CA Course",
+          "description": "Studied taxation and accounting principles through Smartious CA course, enhancing compliance knowledge."
+        },
+        {
+          "title": "Lean Six Sigma White Belt",
+          "description": "Earned Lean Six Sigma White Belt, mastering process optimization techniques."
+        },
+        {
+          "title": "Lean Six Sigma AI Yellow Belt",
+          "description": "Achieved Lean Six Sigma AI Yellow Belt, integrating AI-driven efficiency methods."
+        },
+        {
+          "title": "MIT SMR Course AI and Machine Learning in Finance",
+          "description": "Finished MIT SMR course AI and machine learning in finance, including software implementation with eFront."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "riya.manish.mistry@gmail.com",
+      "phone": "+49 15510820643",
+      "location": "Germany"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/riya-mistry24/",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Riya Manish Mistry. All rights reserved."
+  }
+}
